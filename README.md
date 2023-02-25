@@ -1,2 +1,2 @@
 # JavaScripts-by-STASHCHUK-
-Here is a course on Javascript in text format.
+> Here is a course on JavaScript in text format.
